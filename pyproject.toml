@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ruledoc"
-version = "1.0.0"
+version = "1.0.1"
 description = "规则驱动的论文格式化工具 - 支持多种高校论文格式规范"
 readme = "README.md"
 license = {text = "MIT"}
